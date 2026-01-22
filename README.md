@@ -16,7 +16,7 @@ Além disso, é possível navegar entre seções usando os botões da interface 
 # 🚀 Como começar
 Faça o Download: baixe o arquivo .xlsx disponível neste repositório, dedique alguns minuttos por mês para alimentar os dados e todos os seus números já estarão somados e categorizados prontos para serem usados quando necessários!
 
- # 🛠️ Destalhes técnicos
+ # 🛠️ Detalhes técnicos
  * A fórmula SOMA foi utilizada
  * Houve inserção de fórmulas e imagens
  * Foi inserido links para worksheets diferentes e páginas da web
