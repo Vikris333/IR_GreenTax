@@ -21,5 +21,3 @@ Faça o Download: baixe o arquivo .xlsx disponível neste repositório, dedique 
  * Houve inserção de fórmulas e imagens
  * Foi inserido links para worksheets diferentes e páginas da web
  * O layout é limpo, simples e fácil de ser utilizado
-
-Agradecimento especial ao professor @felipeAguiarCode
